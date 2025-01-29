@@ -30,5 +30,7 @@ Ilustrações explicativas para facilitar o aprendizado
 
 Layout organizado e pronto para distribuição
 
+Link do E-Book: https://docs.google.com/document/d/1-f1C4wsV0PEilQNAG7MQanuSdEPZP2qMLwzzxMs3wjI/edit?usp=sharing
+
 ## 💭 Reflexão (Opcional)
 Criar um ebook sobre Redux utilizando IA foi um desafio enriquecedor. A combinação entre a geração automática de conteúdo e a curadoria manual permitiu um material mais estruturado e acessível. O uso de ferramentas como ChatGPT e o gerador de imagens do GPT agilizou o processo e contribuiu para a qualidade final do ebook.
